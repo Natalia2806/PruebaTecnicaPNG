@@ -9,3 +9,4 @@ C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Utilid
 C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Utilidades\obj\Debug\net5.0\Utilidades.dll
 C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Utilidades\obj\Debug\net5.0\ref\Utilidades.dll
 C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Utilidades\obj\Debug\net5.0\Utilidades.pdb
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Utilidades\obj\Debug\net5.0\Utilidades.csproj.AssemblyReference.cache
