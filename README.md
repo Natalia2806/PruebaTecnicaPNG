@@ -11,7 +11,9 @@
   *  **Cine.WebApi**: En esta carpeta de encuntran los controladores, al momento de ejecurtarlos aparecera una documentacion de swagger para cada uno de los endpoint          creados
   
 2. Despúes de haber clonado el respositorio se debe ejecutar el script (cine.sql) para la creación de las tablas sus relaciones y los procedmientos almacenados.
-3. Luego Ejecutar la api cine.WebApi y probar los servicios que aparecen en la documentación de swagger
+3. Cambiar la cadena de conexión a la base de datos en el archivo appsettings.json de cine.WebApi
+4. Luego Ejecutar la api cine.WebApi y probar los servicios que aparecen en la documentación de swagger
+
  
 
 
