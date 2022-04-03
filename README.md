@@ -8,7 +8,7 @@
   
   *  **DatalayerCine**: Esta carpeta contiene tres bibliotecas de clases, las cuales son usadas para el acceso a datos aquí se encuntran los modelos, la implementacion        de los stored procedure y una configuración para la cadena de conexión
   
-  *  **Cine.WebApi**: En esta carpeta de encuntran los controladores, al momento de ejecurtarlos aparecera una documentacion de swagger para cada uno de los endpoint          creados
+  *  **Cine.WebApi**: En esta carpeta de encuntran los controladores, al momento de ejecurtarlos aparecerá una documentación de swagger para cada uno de los endpoint          creados
   
 2. Despúes de haber clonado el respositorio se debe ejecutar el script (cine.sql) para la creación de las tablas sus relaciones y los procedmientos almacenados.
 3. Cambiar la cadena de conexión a la base de datos en el archivo appsettings.json de cine.WebApi
