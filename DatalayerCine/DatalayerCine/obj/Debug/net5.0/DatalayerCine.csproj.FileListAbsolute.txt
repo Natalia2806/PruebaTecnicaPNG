@@ -1,0 +1,17 @@
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\bin\Debug\net5.0\DatalayerCine.deps.json
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\bin\Debug\net5.0\DatalayerCine.dll
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\bin\Debug\net5.0\ref\DatalayerCine.dll
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\bin\Debug\net5.0\DatalayerCine.pdb
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\bin\Debug\net5.0\Datalayer.Modelos.dll
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\bin\Debug\net5.0\Utilidades.dll
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\bin\Debug\net5.0\Datalayer.Modelos.pdb
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\bin\Debug\net5.0\Utilidades.pdb
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\obj\Debug\net5.0\DatalayerCine.csproj.AssemblyReference.cache
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\obj\Debug\net5.0\DatalayerCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\obj\Debug\net5.0\DatalayerCine.AssemblyInfoInputs.cache
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\obj\Debug\net5.0\DatalayerCine.AssemblyInfo.cs
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\obj\Debug\net5.0\DatalayerCine.csproj.CoreCompileInputs.cache
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\obj\Debug\net5.0\DatalayerCine.csproj.CopyComplete
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\obj\Debug\net5.0\DatalayerCine.dll
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\obj\Debug\net5.0\ref\DatalayerCine.dll
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\DatalayerCine\obj\Debug\net5.0\DatalayerCine.pdb

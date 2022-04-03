@@ -1,0 +1,15 @@
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\bin\Debug\net5.0\Datalayer.Modelos.deps.json
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\bin\Debug\net5.0\Datalayer.Modelos.dll
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\bin\Debug\net5.0\ref\Datalayer.Modelos.dll
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\bin\Debug\net5.0\Datalayer.Modelos.pdb
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\bin\Debug\net5.0\Utilidades.dll
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\bin\Debug\net5.0\Utilidades.pdb
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\obj\Debug\net5.0\Datalayer.Modelos.csproj.AssemblyReference.cache
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\obj\Debug\net5.0\Datalayer.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\obj\Debug\net5.0\Datalayer.Modelos.AssemblyInfoInputs.cache
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\obj\Debug\net5.0\Datalayer.Modelos.AssemblyInfo.cs
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\obj\Debug\net5.0\Datalayer.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\obj\Debug\net5.0\Datalayer.Modelos.csproj.CopyComplete
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\obj\Debug\net5.0\Datalayer.Modelos.dll
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\obj\Debug\net5.0\ref\Datalayer.Modelos.dll
+C:\Users\Naty\Documents\Pruebas_tecnicas\prueba_tecnica_png\DatalayerCine\Datalayer.Modelos\obj\Debug\net5.0\Datalayer.Modelos.pdb
